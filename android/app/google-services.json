@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "461278347881",
+    "project_id": "pumba-project-3b8bb",
+    "storage_bucket": "pumba-project-3b8bb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:461278347881:android:d464d2a72d8cfe3ae918f8",
+        "android_client_info": {
+          "package_name": "com.example.pumba_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvkkqa1UkvhWr1STztDRd_aG0KTZoe040"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
