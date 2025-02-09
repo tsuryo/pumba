@@ -48,48 +48,6 @@
 			<key>uniqueIdentifier</key>
 			<string>5EC8D2BC-34BD-4243-BD62-41DDEE84F83C</string>
 		</dict>
-		<key>ECF60A83-2BCB-406D-8032-039E27D2768F</key>
-		<dict>
-			<key>className</key>
-			<string>IDECommandLineBuildLog</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>ECF60A83-2BCB-406D-8032-039E27D2768F.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>0</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>0</integer>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Runner project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Flutter Assemble</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Cleaning workspace Runner with scheme Flutter Assemble</string>
-			<key>timeStartedRecording</key>
-			<real>760739652.20610094</real>
-			<key>timeStoppedRecording</key>
-			<real>760739652.71464503</real>
-			<key>title</key>
-			<string>Cleaning workspace Runner with scheme Flutter Assemble</string>
-			<key>uniqueIdentifier</key>
-			<string>ECF60A83-2BCB-406D-8032-039E27D2768F</string>
-		</dict>
 	</dict>
 </dict>
 </plist>
