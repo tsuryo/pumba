@@ -1,0 +1,24 @@
+"/Users/tsuryo/Desktop/try/pumba_project/ios/Pods/FirebaseFirestore/Firestore/Swift/Source/Codable/DocumentReference+WriteEncodable.swift":
+  object: "/Users/tsuryo/Desktop/try/pumba_project/ios/DerivedData2/Runner/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/DocumentReference+WriteEncodable.o"
+  dependencies: "/Users/tsuryo/Desktop/try/pumba_project/ios/DerivedData2/Runner/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/DocumentReference+WriteEncodable.d"
+  swift-dependencies: "/Users/tsuryo/Desktop/try/pumba_project/ios/DerivedData2/Runner/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/DocumentReference+WriteEncodable.swiftdeps"
+  const-values: "/Users/tsuryo/Desktop/try/pumba_project/ios/DerivedData2/Runner/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/DocumentReference+WriteEncodable.swiftconstvalues"
+  diagnostics: "/Users/tsuryo/Desktop/try/pumba_project/ios/DerivedData2/Runner/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/DocumentReference+WriteEncodable.dia"
+"/Users/tsuryo/Desktop/try/pumba_project/ios/Pods/FirebaseFirestore/Firestore/Swift/Source/Codable/DocumentReference+Codable.swift":
+  const-values: "/Users/tsuryo/Desktop/try/pumba_project/ios/DerivedData2/Runner/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/DocumentReference+Codable.swiftconstvalues"
+  diagnostics: "/Users/tsuryo/Desktop/try/pumba_project/ios/DerivedData2/Runner/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/DocumentReference+Codable.dia"
+  swift-dependencies: "/Users/tsuryo/Desktop/try/pumba_project/ios/DerivedData2/Runner/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/DocumentReference+Codable.swiftdeps"
+  dependencies: "/Users/tsuryo/Desktop/try/pumba_project/ios/DerivedData2/Runner/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/DocumentReference+Codable.d"
+  object: "/Users/tsuryo/Desktop/try/pumba_project/ios/DerivedData2/Runner/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/DocumentReference+Codable.o"
+"/Users/tsuryo/Desktop/try/pumba_project/ios/Pods/FirebaseFirestore/Firestore/Swift/Source/Codable/DocumentReference+ReadDecodable.swift":
+  diagnostics: "/Users/tsuryo/Desktop/try/pumba_project/ios/DerivedData2/Runner/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/DocumentReference+ReadDecodable.dia"
+  const-values: "/Users/tsuryo/Desktop/try/pumba_project/ios/DerivedData2/Runner/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/DocumentReference+ReadDecodable.swiftconstvalues"
+  dependencies: "/Users/tsuryo/Desktop/try/pumba_project/ios/DerivedData2/Runner/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/DocumentReference+ReadDecodable.d"
+  object: "/Users/tsuryo/Desktop/try/pumba_project/ios/DerivedData2/Runner/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/DocumentReference+ReadDecodable.o"
+  swift-dependencies: "/Users/tsuryo/Desktop/try/pumba_project/ios/DerivedData2/Runner/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/DocumentReference+ReadDecodable.swiftdeps"
+"/Users/tsuryo/Desktop/try/pumba_project/ios/Pods/FirebaseFirestore/Firestore/Swift/Source/Codable/DocumentID.swift":
+  object: "/Users/tsuryo/Desktop/try/pumba_project/ios/DerivedData2/Runner/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/DocumentID.o"
+  const-values: "/Users/tsuryo/Desktop/try/pumba_project/ios/DerivedData2/Runner/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/DocumentID.swiftconstvalues"
+  diagnostics: "/Users/tsuryo/Desktop/try/pumba_project/ios/DerivedData2/Runner/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/DocumentID.dia"
+  dependencies: "/Users/tsuryo/Desktop/try/pumba_project/ios/DerivedData2/Runner/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/DocumentID.d"
+  swift-dependencies: "/Users/tsuryo/Desktop/try/pumba_project/ios/DerivedData2/Runner/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/DocumentID.swiftdeps"

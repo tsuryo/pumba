@@ -1,0 +1,16 @@
+dependencies: \
+  /Users/tsuryo/Desktop/try/pumba_project/ios/DerivedData2/Runner/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/geolocator_apple.build/module.modulemap \
+  /Users/tsuryo/.pub-cache/hosted/pub.dev/geolocator_apple-2.3.8+1/ios/Classes/Handlers/PositionStreamHandler.m \
+  /Users/tsuryo/Desktop/try/pumba_project/ios/Pods/Target\ Support\ Files/geolocator_apple/geolocator_apple-prefix.pch \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator.sdk/System/Library/Frameworks/UIKit.framework/Modules/module.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator.sdk/System/Library/Frameworks/Foundation.framework/Modules/module.modulemap \
+  /Users/tsuryo/.pub-cache/hosted/pub.dev/geolocator_apple-2.3.8+1/ios/Classes/Handlers/PermissionHandler.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator.sdk/System/Library/Frameworks/CoreLocation.framework/Modules/module.modulemap \
+  /Users/tsuryo/.pub-cache/hosted/pub.dev/geolocator_apple-2.3.8+1/ios/Classes/Handlers/PositionStreamHandler.h \
+  /Users/tsuryo/Documents/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Modules/module.modulemap \
+  /Users/tsuryo/.pub-cache/hosted/pub.dev/geolocator_apple-2.3.8+1/ios/Classes/Handlers/GeolocationHandler.h \
+  /Users/tsuryo/.pub-cache/hosted/pub.dev/geolocator_apple-2.3.8+1/ios/Classes/Handlers/../Constants/ErrorCodes.h \
+  /Users/tsuryo/.pub-cache/hosted/pub.dev/geolocator_apple-2.3.8+1/ios/Classes/Handlers/../Utils/ActivityTypeMapper.h \
+  /Users/tsuryo/.pub-cache/hosted/pub.dev/geolocator_apple-2.3.8+1/ios/Classes/Handlers/../Utils/LocationAccuracyMapper.h \
+  /Users/tsuryo/.pub-cache/hosted/pub.dev/geolocator_apple-2.3.8+1/ios/Classes/Handlers/../Utils/LocationDistanceMapper.h \
+  /Users/tsuryo/.pub-cache/hosted/pub.dev/geolocator_apple-2.3.8+1/ios/Classes/Handlers/../Utils/LocationMapper.h

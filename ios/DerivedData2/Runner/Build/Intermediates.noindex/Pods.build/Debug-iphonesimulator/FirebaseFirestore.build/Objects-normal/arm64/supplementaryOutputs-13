@@ -1,0 +1,18 @@
+"/Users/tsuryo/Desktop/try/pumba_project/ios/Pods/FirebaseFirestore/Firestore/Swift/Source/Codable/TimestampEncodingStrategy.swift":
+  const-values: "/Users/tsuryo/Desktop/try/pumba_project/ios/DerivedData2/Runner/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/TimestampEncodingStrategy.swiftconstvalues"
+  diagnostics: "/Users/tsuryo/Desktop/try/pumba_project/ios/DerivedData2/Runner/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/TimestampEncodingStrategy.dia"
+  object: "/Users/tsuryo/Desktop/try/pumba_project/ios/DerivedData2/Runner/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/TimestampEncodingStrategy.o"
+  swift-dependencies: "/Users/tsuryo/Desktop/try/pumba_project/ios/DerivedData2/Runner/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/TimestampEncodingStrategy.swiftdeps"
+  dependencies: "/Users/tsuryo/Desktop/try/pumba_project/ios/DerivedData2/Runner/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/TimestampEncodingStrategy.d"
+"/Users/tsuryo/Desktop/try/pumba_project/ios/Pods/FirebaseFirestore/Firestore/Swift/Source/Codable/Transaction+WriteEncodable.swift":
+  diagnostics: "/Users/tsuryo/Desktop/try/pumba_project/ios/DerivedData2/Runner/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/Transaction+WriteEncodable.dia"
+  swift-dependencies: "/Users/tsuryo/Desktop/try/pumba_project/ios/DerivedData2/Runner/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/Transaction+WriteEncodable.swiftdeps"
+  const-values: "/Users/tsuryo/Desktop/try/pumba_project/ios/DerivedData2/Runner/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/Transaction+WriteEncodable.swiftconstvalues"
+  object: "/Users/tsuryo/Desktop/try/pumba_project/ios/DerivedData2/Runner/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/Transaction+WriteEncodable.o"
+  dependencies: "/Users/tsuryo/Desktop/try/pumba_project/ios/DerivedData2/Runner/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/Transaction+WriteEncodable.d"
+"/Users/tsuryo/Desktop/try/pumba_project/ios/Pods/FirebaseFirestore/Firestore/Swift/Source/Codable/TimestampDecodingStrategy.swift":
+  swift-dependencies: "/Users/tsuryo/Desktop/try/pumba_project/ios/DerivedData2/Runner/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/TimestampDecodingStrategy.swiftdeps"
+  diagnostics: "/Users/tsuryo/Desktop/try/pumba_project/ios/DerivedData2/Runner/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/TimestampDecodingStrategy.dia"
+  const-values: "/Users/tsuryo/Desktop/try/pumba_project/ios/DerivedData2/Runner/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/TimestampDecodingStrategy.swiftconstvalues"
+  dependencies: "/Users/tsuryo/Desktop/try/pumba_project/ios/DerivedData2/Runner/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/TimestampDecodingStrategy.d"
+  object: "/Users/tsuryo/Desktop/try/pumba_project/ios/DerivedData2/Runner/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/TimestampDecodingStrategy.o"

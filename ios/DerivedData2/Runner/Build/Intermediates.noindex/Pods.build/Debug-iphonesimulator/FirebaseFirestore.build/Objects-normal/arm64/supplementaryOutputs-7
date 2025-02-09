@@ -1,0 +1,18 @@
+"/Users/tsuryo/Desktop/try/pumba_project/ios/Pods/FirebaseFirestore/Firestore/Swift/Source/AsyncAwait/Firestore+AsyncAwait.swift":
+  swift-dependencies: "/Users/tsuryo/Desktop/try/pumba_project/ios/DerivedData2/Runner/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/Firestore+AsyncAwait.swiftdeps"
+  diagnostics: "/Users/tsuryo/Desktop/try/pumba_project/ios/DerivedData2/Runner/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/Firestore+AsyncAwait.dia"
+  object: "/Users/tsuryo/Desktop/try/pumba_project/ios/DerivedData2/Runner/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/Firestore+AsyncAwait.o"
+  const-values: "/Users/tsuryo/Desktop/try/pumba_project/ios/DerivedData2/Runner/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/Firestore+AsyncAwait.swiftconstvalues"
+  dependencies: "/Users/tsuryo/Desktop/try/pumba_project/ios/DerivedData2/Runner/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/Firestore+AsyncAwait.d"
+"/Users/tsuryo/Desktop/try/pumba_project/ios/Pods/FirebaseFirestore/Firestore/Swift/Source/SwiftAPI/FieldValue+Swift.swift":
+  object: "/Users/tsuryo/Desktop/try/pumba_project/ios/DerivedData2/Runner/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/FieldValue+Swift.o"
+  swift-dependencies: "/Users/tsuryo/Desktop/try/pumba_project/ios/DerivedData2/Runner/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/FieldValue+Swift.swiftdeps"
+  diagnostics: "/Users/tsuryo/Desktop/try/pumba_project/ios/DerivedData2/Runner/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/FieldValue+Swift.dia"
+  dependencies: "/Users/tsuryo/Desktop/try/pumba_project/ios/DerivedData2/Runner/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/FieldValue+Swift.d"
+  const-values: "/Users/tsuryo/Desktop/try/pumba_project/ios/DerivedData2/Runner/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/FieldValue+Swift.swiftconstvalues"
+"/Users/tsuryo/Desktop/try/pumba_project/ios/Pods/FirebaseFirestore/Firestore/Swift/Source/PropertyWrapper/FirestoreQuery.swift":
+  diagnostics: "/Users/tsuryo/Desktop/try/pumba_project/ios/DerivedData2/Runner/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/FirestoreQuery.dia"
+  const-values: "/Users/tsuryo/Desktop/try/pumba_project/ios/DerivedData2/Runner/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/FirestoreQuery.swiftconstvalues"
+  object: "/Users/tsuryo/Desktop/try/pumba_project/ios/DerivedData2/Runner/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/FirestoreQuery.o"
+  dependencies: "/Users/tsuryo/Desktop/try/pumba_project/ios/DerivedData2/Runner/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/FirestoreQuery.d"
+  swift-dependencies: "/Users/tsuryo/Desktop/try/pumba_project/ios/DerivedData2/Runner/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/FirestoreQuery.swiftdeps"

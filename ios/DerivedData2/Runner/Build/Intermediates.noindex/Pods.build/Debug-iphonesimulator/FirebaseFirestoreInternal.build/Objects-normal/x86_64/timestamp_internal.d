@@ -1,0 +1,37 @@
+dependencies: \
+  /Users/tsuryo/Desktop/try/pumba_project/ios/Pods/FirebaseFirestoreInternal/Firestore/core/src/timestamp_internal.cc \
+  /Users/tsuryo/Desktop/try/pumba_project/ios/Pods/FirebaseFirestoreInternal/Firestore/core/src/timestamp_internal.h \
+  /Users/tsuryo/Desktop/try/pumba_project/ios/Pods/FirebaseFirestoreInternal/Firestore/core/include/firebase/firestore/timestamp.h \
+  /Users/tsuryo/Desktop/try/pumba_project/ios/Pods/FirebaseFirestoreInternal/Firestore/core/src/util/statusor.h \
+  /Users/tsuryo/Desktop/try/pumba_project/ios/Pods/FirebaseFirestoreInternal/Firestore/core/include/firebase/firestore/firestore_errors.h \
+  /Users/tsuryo/Desktop/try/pumba_project/ios/Pods/FirebaseFirestoreInternal/Firestore/core/src/util/status.h \
+  /Users/tsuryo/Desktop/try/pumba_project/ios/Pods/FirebaseFirestoreInternal/Firestore/core/src/util/status_fwd.h \
+  /Users/tsuryo/Desktop/try/pumba_project/build/ios/Debug-iphonesimulator/abseil/absl.framework/Headers/base/attributes.h \
+  /Users/tsuryo/Desktop/try/pumba_project/build/ios/Debug-iphonesimulator/abseil/absl.framework/Headers/base/config.h \
+  /Users/tsuryo/Desktop/try/pumba_project/build/ios/Debug-iphonesimulator/abseil/absl.framework/Headers/base/options.h \
+  /Users/tsuryo/Desktop/try/pumba_project/build/ios/Debug-iphonesimulator/abseil/absl.framework/Headers/base/policy_checks.h \
+  /Users/tsuryo/Desktop/try/pumba_project/build/ios/Debug-iphonesimulator/abseil/absl.framework/Headers/strings/string_view.h \
+  /Users/tsuryo/Desktop/try/pumba_project/build/ios/Debug-iphonesimulator/abseil/absl.framework/Headers/base/nullability.h \
+  /Users/tsuryo/Desktop/try/pumba_project/build/ios/Debug-iphonesimulator/abseil/absl.framework/Headers/base/internal/nullability_impl.h \
+  /Users/tsuryo/Desktop/try/pumba_project/build/ios/Debug-iphonesimulator/abseil/absl.framework/Headers/meta/type_traits.h \
+  /Users/tsuryo/Desktop/try/pumba_project/build/ios/Debug-iphonesimulator/abseil/absl.framework/Headers/base/internal/throw_delegate.h \
+  /Users/tsuryo/Desktop/try/pumba_project/build/ios/Debug-iphonesimulator/abseil/absl.framework/Headers/base/macros.h \
+  /Users/tsuryo/Desktop/try/pumba_project/build/ios/Debug-iphonesimulator/abseil/absl.framework/Headers/base/optimization.h \
+  /Users/tsuryo/Desktop/try/pumba_project/build/ios/Debug-iphonesimulator/abseil/absl.framework/Headers/base/port.h \
+  /Users/tsuryo/Desktop/try/pumba_project/ios/Pods/FirebaseFirestoreInternal/Firestore/core/src/util/statusor_internals.h \
+  /Users/tsuryo/Desktop/try/pumba_project/build/ios/Debug-iphonesimulator/abseil/absl.framework/Headers/time/time.h \
+  /Users/tsuryo/Desktop/try/pumba_project/build/ios/Debug-iphonesimulator/abseil/absl.framework/Headers/time/civil_time.h \
+  /Users/tsuryo/Desktop/try/pumba_project/build/ios/Debug-iphonesimulator/abseil/absl.framework/Headers/time/internal/cctz/include/cctz/civil_time.h \
+  /Users/tsuryo/Desktop/try/pumba_project/build/ios/Debug-iphonesimulator/abseil/absl.framework/Headers/time/internal/cctz/include/cctz/civil_time_detail.h \
+  /Users/tsuryo/Desktop/try/pumba_project/build/ios/Debug-iphonesimulator/abseil/absl.framework/Headers/time/internal/cctz/include/cctz/time_zone.h \
+  /Users/tsuryo/Desktop/try/pumba_project/ios/Pods/FirebaseFirestoreInternal/Firestore/core/src/util/hashing.h \
+  /Users/tsuryo/Desktop/try/pumba_project/ios/Pods/FirebaseFirestoreInternal/Firestore/core/src/objc/objc_type_traits.h \
+  /Users/tsuryo/Desktop/try/pumba_project/ios/Pods/FirebaseFirestoreInternal/Firestore/core/src/util/type_traits.h \
+  /Users/tsuryo/Desktop/try/pumba_project/build/ios/Debug-iphonesimulator/abseil/absl.framework/Headers/types/optional.h \
+  /Users/tsuryo/Desktop/try/pumba_project/build/ios/Debug-iphonesimulator/abseil/absl.framework/Headers/utility/utility.h \
+  /Users/tsuryo/Desktop/try/pumba_project/build/ios/Debug-iphonesimulator/abseil/absl.framework/Headers/base/internal/inline_variable.h \
+  /Users/tsuryo/Desktop/try/pumba_project/build/ios/Debug-iphonesimulator/abseil/absl.framework/Headers/base/internal/identity.h \
+  /Users/tsuryo/Desktop/try/pumba_project/build/ios/Debug-iphonesimulator/abseil/absl.framework/Headers/base/internal/invoke.h \
+  /Users/tsuryo/Desktop/try/pumba_project/build/ios/Debug-iphonesimulator/abseil/absl.framework/Headers/types/bad_optional_access.h \
+  /Users/tsuryo/Desktop/try/pumba_project/build/ios/Debug-iphonesimulator/abseil/absl.framework/Headers/types/internal/optional.h \
+  /Users/tsuryo/Desktop/try/pumba_project/build/ios/Debug-iphonesimulator/abseil/absl.framework/Headers/memory/memory.h

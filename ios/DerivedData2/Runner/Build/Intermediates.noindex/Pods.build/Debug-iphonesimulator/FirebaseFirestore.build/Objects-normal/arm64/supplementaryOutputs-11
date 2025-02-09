@@ -1,0 +1,18 @@
+"/Users/tsuryo/Desktop/try/pumba_project/ios/Pods/FirebaseFirestore/Firestore/Swift/Source/SwiftHeaderWorkaround.swift":
+  swift-dependencies: "/Users/tsuryo/Desktop/try/pumba_project/ios/DerivedData2/Runner/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/SwiftHeaderWorkaround.swiftdeps"
+  dependencies: "/Users/tsuryo/Desktop/try/pumba_project/ios/DerivedData2/Runner/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/SwiftHeaderWorkaround.d"
+  diagnostics: "/Users/tsuryo/Desktop/try/pumba_project/ios/DerivedData2/Runner/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/SwiftHeaderWorkaround.dia"
+  const-values: "/Users/tsuryo/Desktop/try/pumba_project/ios/DerivedData2/Runner/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/SwiftHeaderWorkaround.swiftconstvalues"
+  object: "/Users/tsuryo/Desktop/try/pumba_project/ios/DerivedData2/Runner/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/SwiftHeaderWorkaround.o"
+"/Users/tsuryo/Desktop/try/pumba_project/ios/Pods/FirebaseFirestore/Firestore/Swift/Source/Codable/Timestamp+Codable.swift":
+  object: "/Users/tsuryo/Desktop/try/pumba_project/ios/DerivedData2/Runner/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/Timestamp+Codable.o"
+  dependencies: "/Users/tsuryo/Desktop/try/pumba_project/ios/DerivedData2/Runner/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/Timestamp+Codable.d"
+  const-values: "/Users/tsuryo/Desktop/try/pumba_project/ios/DerivedData2/Runner/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/Timestamp+Codable.swiftconstvalues"
+  diagnostics: "/Users/tsuryo/Desktop/try/pumba_project/ios/DerivedData2/Runner/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/Timestamp+Codable.dia"
+  swift-dependencies: "/Users/tsuryo/Desktop/try/pumba_project/ios/DerivedData2/Runner/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/Timestamp+Codable.swiftdeps"
+"/Users/tsuryo/Desktop/try/pumba_project/ios/Pods/FirebaseFirestore/Firestore/Swift/Source/Codable/ServerTimestamp.swift":
+  const-values: "/Users/tsuryo/Desktop/try/pumba_project/ios/DerivedData2/Runner/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/ServerTimestamp.swiftconstvalues"
+  object: "/Users/tsuryo/Desktop/try/pumba_project/ios/DerivedData2/Runner/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/ServerTimestamp.o"
+  dependencies: "/Users/tsuryo/Desktop/try/pumba_project/ios/DerivedData2/Runner/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/ServerTimestamp.d"
+  swift-dependencies: "/Users/tsuryo/Desktop/try/pumba_project/ios/DerivedData2/Runner/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/ServerTimestamp.swiftdeps"
+  diagnostics: "/Users/tsuryo/Desktop/try/pumba_project/ios/DerivedData2/Runner/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/ServerTimestamp.dia"

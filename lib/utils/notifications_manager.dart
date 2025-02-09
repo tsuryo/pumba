@@ -35,40 +35,37 @@ class NotificationsManager {
   }
 
   Future<DateTime?> scheduleNotification() async {
-    bool? hasPermission = await _requestNotificationPermission();
-    if (hasPermission != null && hasPermission) {
-      const AndroidNotificationDetails androidDetails =
-          AndroidNotificationDetails(
-        'pumba_channel_id',
-        'Pumba Notifications',
-        importance: Importance.high,
-        priority: Priority.high,
-      );
+    await _requestNotificationPermission();
+    const AndroidNotificationDetails androidDetails =
+        AndroidNotificationDetails(
+      'pumba_channel_id',
+      'Pumba Notifications',
+      importance: Importance.high,
+      priority: Priority.high,
+    );
 
-      const NotificationDetails notificationDetails = NotificationDetails(
-        android: androidDetails,
-      );
+    const NotificationDetails notificationDetails = NotificationDetails(
+      android: androidDetails,
+    );
 
-      DateTime scheduleTime = DateTime.now().add(
-        Duration(minutes: 2),
-      );
-      final tz.TZDateTime scheduledTZTime = tz.TZDateTime.from(
-        scheduleTime,
-        tz.local,
-      );
+    DateTime scheduleTime = DateTime.now().add(
+      Duration(minutes: 2),
+    );
+    final tz.TZDateTime scheduledTZTime = tz.TZDateTime.from(
+      scheduleTime,
+      tz.local,
+    );
 
-      await _notificationsPlugin.zonedSchedule(
-        123,
-        'Pumba notification',
-        'This is our Pumba Notification!',
-        scheduledTZTime,
-        notificationDetails,
-        uiLocalNotificationDateInterpretation:
-            UILocalNotificationDateInterpretation.wallClockTime,
-        androidScheduleMode: AndroidScheduleMode.exactAllowWhileIdle,
-      );
-      return scheduleTime;
-    }
-    return null;
+    await _notificationsPlugin.zonedSchedule(
+      123,
+      'Pumba notification',
+      'This is our Pumba Notification!',
+      scheduledTZTime,
+      notificationDetails,
+      uiLocalNotificationDateInterpretation:
+          UILocalNotificationDateInterpretation.wallClockTime,
+      androidScheduleMode: AndroidScheduleMode.exactAllowWhileIdle,
+    );
+    return scheduleTime;
   }
 }

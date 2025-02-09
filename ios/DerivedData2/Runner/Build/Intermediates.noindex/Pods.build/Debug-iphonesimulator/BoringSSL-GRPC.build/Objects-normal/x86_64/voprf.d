@@ -1,0 +1,37 @@
+dependencies: \
+  /Users/tsuryo/Desktop/try/pumba_project/build/ios/Debug-iphonesimulator/BoringSSL-GRPC/openssl_grpc.framework/Modules/module.modulemap \
+  /Users/tsuryo/Desktop/try/pumba_project/ios/Pods/BoringSSL-GRPC/src/crypto/trust_token/voprf.c \
+  /Users/tsuryo/Desktop/try/pumba_project/ios/Pods/Target\ Support\ Files/BoringSSL-GRPC/BoringSSL-GRPC-prefix.pch \
+  /Users/tsuryo/Desktop/try/pumba_project/build/ios/Debug-iphonesimulator/BoringSSL-GRPC/openssl_grpc.framework/Headers/trust_token.h \
+  /Users/tsuryo/Desktop/try/pumba_project/build/ios/Debug-iphonesimulator/BoringSSL-GRPC/openssl_grpc.framework/Headers/base.h \
+  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/16/include/module.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator.sdk/usr/include/c_standard_library.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator.sdk/usr/include/DarwinFoundation.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator.sdk/usr/include/DarwinBasic.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator.sdk/usr/include/TargetConditionals.modulemap \
+  /Users/tsuryo/Desktop/try/pumba_project/build/ios/Debug-iphonesimulator/BoringSSL-GRPC/openssl_grpc.framework/Headers/is_boringssl.h \
+  /Users/tsuryo/Desktop/try/pumba_project/build/ios/Debug-iphonesimulator/BoringSSL-GRPC/openssl_grpc.framework/Headers/opensslconf.h \
+  /Users/tsuryo/Desktop/try/pumba_project/build/ios/Debug-iphonesimulator/BoringSSL-GRPC/openssl_grpc.framework/Headers/target.h \
+  /Users/tsuryo/Desktop/try/pumba_project/build/ios/Debug-iphonesimulator/BoringSSL-GRPC/openssl_grpc.framework/Headers/boringssl_prefix_symbols.h \
+  /Users/tsuryo/Desktop/try/pumba_project/build/ios/Debug-iphonesimulator/BoringSSL-GRPC/openssl_grpc.framework/Headers/stack.h \
+  /Users/tsuryo/Desktop/try/pumba_project/build/ios/Debug-iphonesimulator/BoringSSL-GRPC/openssl_grpc.framework/Headers/bn.h \
+  /Users/tsuryo/Desktop/try/pumba_project/build/ios/Debug-iphonesimulator/BoringSSL-GRPC/openssl_grpc.framework/Headers/thread.h \
+  /Users/tsuryo/Desktop/try/pumba_project/build/ios/Debug-iphonesimulator/BoringSSL-GRPC/openssl_grpc.framework/Headers/bytestring.h \
+  /Users/tsuryo/Desktop/try/pumba_project/build/ios/Debug-iphonesimulator/BoringSSL-GRPC/openssl_grpc.framework/Headers/span.h \
+  /Users/tsuryo/Desktop/try/pumba_project/build/ios/Debug-iphonesimulator/BoringSSL-GRPC/openssl_grpc.framework/Headers/ec.h \
+  /Users/tsuryo/Desktop/try/pumba_project/build/ios/Debug-iphonesimulator/BoringSSL-GRPC/openssl_grpc.framework/Headers/ec_key.h \
+  /Users/tsuryo/Desktop/try/pumba_project/build/ios/Debug-iphonesimulator/BoringSSL-GRPC/openssl_grpc.framework/Headers/engine.h \
+  /Users/tsuryo/Desktop/try/pumba_project/build/ios/Debug-iphonesimulator/BoringSSL-GRPC/openssl_grpc.framework/Headers/ex_data.h \
+  /Users/tsuryo/Desktop/try/pumba_project/build/ios/Debug-iphonesimulator/BoringSSL-GRPC/openssl_grpc.framework/Headers/err.h \
+  /Users/tsuryo/Desktop/try/pumba_project/build/ios/Debug-iphonesimulator/BoringSSL-GRPC/openssl_grpc.framework/Headers/mem.h \
+  /Users/tsuryo/Desktop/try/pumba_project/build/ios/Debug-iphonesimulator/BoringSSL-GRPC/openssl_grpc.framework/Headers/nid.h \
+  /Users/tsuryo/Desktop/try/pumba_project/build/ios/Debug-iphonesimulator/BoringSSL-GRPC/openssl_grpc.framework/Headers/rand.h \
+  /Users/tsuryo/Desktop/try/pumba_project/build/ios/Debug-iphonesimulator/BoringSSL-GRPC/openssl_grpc.framework/Headers/sha.h \
+  /Users/tsuryo/Desktop/try/pumba_project/ios/Pods/BoringSSL-GRPC/src/crypto/trust_token/../ec_extra/internal.h \
+  /Users/tsuryo/Desktop/try/pumba_project/ios/Pods/BoringSSL-GRPC/src/crypto/trust_token/../ec_extra/../fipsmodule/ec/internal.h \
+  /Users/tsuryo/Desktop/try/pumba_project/ios/Pods/BoringSSL-GRPC/src/crypto/trust_token/../ec_extra/../fipsmodule/ec/../bn/internal.h \
+  /Users/tsuryo/Desktop/try/pumba_project/ios/Pods/BoringSSL-GRPC/src/crypto/trust_token/../ec_extra/../fipsmodule/ec/../bn/../../internal.h \
+  /Users/tsuryo/Desktop/try/pumba_project/build/ios/Debug-iphonesimulator/BoringSSL-GRPC/openssl_grpc.framework/Headers/arm_arch.h \
+  /Users/tsuryo/Desktop/try/pumba_project/build/ios/Debug-iphonesimulator/BoringSSL-GRPC/openssl_grpc.framework/Headers/crypto.h \
+  /Users/tsuryo/Desktop/try/pumba_project/ios/Pods/BoringSSL-GRPC/src/crypto/trust_token/../fipsmodule/ec/internal.h \
+  /Users/tsuryo/Desktop/try/pumba_project/ios/Pods/BoringSSL-GRPC/src/crypto/trust_token/internal.h
